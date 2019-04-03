@@ -5,4 +5,5 @@
 // Copyright © 2019 Natan Parker. All rights reserved.
 
 public class test {
+  system.out.println("Does this work");
 }
